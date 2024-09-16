@@ -1,0 +1,9 @@
+[MASTER]
+disable=
+    C0114,
+    C0115,
+    R0903
+
+[MAIN]
+max-line-length=200
+max-args = 6
